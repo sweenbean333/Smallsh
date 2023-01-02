@@ -2,9 +2,7 @@
 
 For this project I have created my own very basic shell similar to the bash shell, that prompts users and runs commands.
 
-The shell supports three built in commands: `exit`, `cd`, and `status`. It will also support comments, which are lines beginning with the # character.
-
-The shell allows for the redirection of standard input and standard output and it supports both foreground and background processes (controllable by the command line and by receiving signals such as "CTRL+Z").
+The shell supports three built in commands: `exit`, `cd`, and `status`. It also allows for the redirection of standard input and standard output and it supports both foreground and background processes (controllable by the command line and by receiving signals such as "CTRL+Z").
 
 In order to run the program you must first compile the c code. You must use the gcc compiler 
 using the c99 standard.
