@@ -1,7 +1,6 @@
 ## Overview
-In this assignment you will write your own shell in C. The shell will run command line instructions and return the results similar to other shells you have used, but without many of their fancier features.
 
-In this project I have created my own very basic shell similar to the bash shell, that prompts users and runs commands.
+For this project I have created my own very basic shell similar to the bash shell, that prompts users and runs commands.
 
 The shell supports three built in commands: `exit`, `cd`, and `status`. It will also support comments, which are lines beginning with the # character.
 
